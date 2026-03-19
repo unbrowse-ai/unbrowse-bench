@@ -1,0 +1,137 @@
+[
+  {
+    "id": "wiki-1",
+    "category": "wikipedia",
+    "type": "info_retrieval",
+    "intent": "What is the population of Tokyo?",
+    "url": "https://en.wikipedia.org/wiki/Tokyo",
+    "expected_pattern": "13[,.]\\d+",
+    "description": "Find Tokyo population from Wikipedia infobox"
+  },
+  {
+    "id": "wiki-2",
+    "category": "wikipedia",
+    "type": "info_retrieval",
+    "intent": "When was the Eiffel Tower built?",
+    "url": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+    "expected_pattern": "1887|1889",
+    "description": "Find construction date of Eiffel Tower"
+  },
+  {
+    "id": "wiki-3",
+    "category": "wikipedia",
+    "type": "info_retrieval",
+    "intent": "Who is the CEO of Apple Inc?",
+    "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+    "expected_pattern": "Tim Cook",
+    "description": "Find Apple CEO from infobox"
+  },
+  {
+    "id": "wiki-4",
+    "category": "wikipedia",
+    "type": "info_retrieval",
+    "intent": "What is the area of France in square kilometers?",
+    "url": "https://en.wikipedia.org/wiki/France",
+    "expected_pattern": "640|643|551",
+    "description": "Find area of France"
+  },
+  {
+    "id": "wiki-5",
+    "category": "wikipedia",
+    "type": "info_retrieval",
+    "intent": "List the programming paradigms of Python",
+    "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+    "expected_pattern": "object.oriented|multi.paradigm|functional",
+    "description": "Find Python programming paradigms"
+  },
+  {
+    "id": "gitlab-1",
+    "category": "gitlab",
+    "type": "info_retrieval",
+    "intent": "How many stars does the GitLab CE project have?",
+    "url": "https://gitlab.com/gitlab-org/gitlab",
+    "expected_pattern": "\\d+",
+    "description": "Find star count on GitLab project"
+  },
+  {
+    "id": "gitlab-2",
+    "category": "gitlab",
+    "type": "info_retrieval",
+    "intent": "What programming language is GitLab primarily written in?",
+    "url": "https://gitlab.com/gitlab-org/gitlab",
+    "expected_pattern": "Ruby",
+    "description": "Find primary language of GitLab"
+  },
+  {
+    "id": "reddit-1",
+    "category": "reddit",
+    "type": "info_retrieval",
+    "intent": "How many members does the r/programming subreddit have?",
+    "url": "https://www.reddit.com/r/programming/",
+    "expected_pattern": "\\d+",
+    "description": "Find member count of r/programming"
+  },
+  {
+    "id": "reddit-2",
+    "category": "reddit",
+    "type": "info_retrieval",
+    "intent": "What is the description of the r/python subreddit?",
+    "url": "https://www.reddit.com/r/python/",
+    "expected_pattern": "python|Python",
+    "description": "Find subreddit description"
+  },
+  {
+    "id": "shop-1",
+    "category": "shopping",
+    "type": "info_retrieval",
+    "intent": "What is the price of the cheapest MacBook Air?",
+    "url": "https://www.apple.com/shop/buy-mac/macbook-air",
+    "expected_pattern": "\\$?\\d{3,4}",
+    "description": "Find cheapest MacBook Air price"
+  },
+  {
+    "id": "shop-2",
+    "category": "shopping",
+    "type": "info_retrieval",
+    "intent": "What are the available iPhone models?",
+    "url": "https://www.apple.com/shop/buy-iphone",
+    "expected_pattern": "iPhone",
+    "description": "List available iPhone models"
+  },
+  {
+    "id": "wiki-6",
+    "category": "wikipedia",
+    "type": "info_retrieval",
+    "intent": "What is the highest mountain in the world and its height?",
+    "url": "https://en.wikipedia.org/wiki/Mount_Everest",
+    "expected_pattern": "8,?848|8,?849",
+    "description": "Find Mount Everest height"
+  },
+  {
+    "id": "wiki-7",
+    "category": "wikipedia",
+    "type": "navigation",
+    "intent": "List the countries that border Germany",
+    "url": "https://en.wikipedia.org/wiki/Germany",
+    "expected_pattern": "France|Poland|Austria|Denmark",
+    "description": "Find bordering countries of Germany"
+  },
+  {
+    "id": "github-1",
+    "category": "github",
+    "type": "info_retrieval",
+    "intent": "How many stars does the React repository have?",
+    "url": "https://github.com/facebook/react",
+    "expected_pattern": "\\d+",
+    "description": "Find React GitHub star count"
+  },
+  {
+    "id": "github-2",
+    "category": "github",
+    "type": "info_retrieval",
+    "intent": "What is the latest release version of Node.js?",
+    "url": "https://github.com/nodejs/node/releases",
+    "expected_pattern": "v?\\d+\\.\\d+",
+    "description": "Find latest Node.js release version"
+  }
+]
