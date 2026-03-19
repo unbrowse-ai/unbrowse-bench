@@ -1,0 +1,1412 @@
+[
+  {
+    "domain": "www.hotfrog.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 3781
+  },
+  {
+    "domain": "jsonplaceholder.typicode.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 2443
+  },
+  {
+    "domain": "ph.vapi.ai",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 2541
+  },
+  {
+    "domain": "optionstrat.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 3797
+  },
+  {
+    "domain": "www.amazon.com",
+    "source": "marketplace",
+    "ub_ms": 2951,
+    "pw_ms": 2967
+  },
+  {
+    "domain": "mailchimp.com",
+    "source": "marketplace",
+    "ub_ms": 150,
+    "pw_ms": 3466
+  },
+  {
+    "domain": "smartrateusa.com",
+    "source": "live-capture",
+    "ub_ms": 6795,
+    "pw_ms": 2768
+  },
+  {
+    "domain": "app.taplio.com",
+    "source": "live-capture",
+    "ub_ms": 4845,
+    "pw_ms": 3319
+  },
+  {
+    "domain": "bluebridgelaw.com",
+    "source": "marketplace",
+    "ub_ms": 3067,
+    "pw_ms": 6864
+  },
+  {
+    "domain": "lightroom.adobe.com",
+    "source": "marketplace",
+    "ub_ms": 3581,
+    "pw_ms": 3239
+  },
+  {
+    "domain": "caple.letras.ulisboa.pt",
+    "source": "marketplace",
+    "ub_ms": 8336,
+    "pw_ms": 1170
+  },
+  {
+    "domain": "www.thumbtack.com",
+    "source": "live-capture",
+    "ub_ms": 5627,
+    "pw_ms": 2600
+  },
+  {
+    "domain": "pos.toss.im",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 216
+  },
+  {
+    "domain": "www.alldaypa.com",
+    "source": "error",
+    "ub_ms": 0,
+    "pw_ms": 15307
+  },
+  {
+    "domain": "app.redtrack.io",
+    "source": "live-capture",
+    "ub_ms": 4322,
+    "pw_ms": 2334
+  },
+  {
+    "domain": "moltbook.com",
+    "source": "marketplace",
+    "ub_ms": 283,
+    "pw_ms": 2437
+  },
+  {
+    "domain": "www.zillow.com",
+    "source": "marketplace",
+    "ub_ms": 567,
+    "pw_ms": 2416
+  },
+  {
+    "domain": "system.gotsport.com",
+    "source": "marketplace",
+    "ub_ms": 1653,
+    "pw_ms": 4707
+  },
+  {
+    "domain": "www.xiaohongshu.com",
+    "source": "live-capture",
+    "ub_ms": 5264,
+    "pw_ms": 4249
+  },
+  {
+    "domain": "www.congress.gov",
+    "source": "live-capture",
+    "ub_ms": 2918,
+    "pw_ms": 2299
+  },
+  {
+    "domain": "tradestays.co.uk",
+    "source": "marketplace",
+    "ub_ms": 993,
+    "pw_ms": 3208
+  },
+  {
+    "domain": "auth.rocketaccount.com",
+    "source": "live-capture",
+    "ub_ms": 5120,
+    "pw_ms": 2257
+  },
+  {
+    "domain": "www.moltbook.com",
+    "source": "marketplace",
+    "ub_ms": 257,
+    "pw_ms": 2591
+  },
+  {
+    "domain": "www.embroker.com",
+    "source": "live-capture",
+    "ub_ms": 6383,
+    "pw_ms": 2292
+  },
+  {
+    "domain": "api.framer.com",
+    "source": "marketplace",
+    "ub_ms": 768,
+    "pw_ms": 2632
+  },
+  {
+    "domain": "dribbble.com",
+    "source": "live-capture",
+    "ub_ms": 6228,
+    "pw_ms": 3424
+  },
+  {
+    "domain": "polymarket.com",
+    "source": "live-capture",
+    "ub_ms": 4238,
+    "pw_ms": 2920
+  },
+  {
+    "domain": "relievestoday.com",
+    "source": "live-capture",
+    "ub_ms": 5075,
+    "pw_ms": 2327
+  },
+  {
+    "domain": "www.canva.com",
+    "source": "live-capture",
+    "ub_ms": 2910,
+    "pw_ms": 2402
+  },
+  {
+    "domain": "api.quotable.io",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 222
+  },
+  {
+    "domain": "klingai.com",
+    "source": "live-capture",
+    "ub_ms": 3099,
+    "pw_ms": 2447
+  },
+  {
+    "domain": "api.quran.com",
+    "source": "live-capture",
+    "ub_ms": 2838,
+    "pw_ms": 2259
+  },
+  {
+    "domain": "dexscreener.com",
+    "source": "live-capture",
+    "ub_ms": 3856,
+    "pw_ms": 2308
+  },
+  {
+    "domain": "app.conway.tech",
+    "source": "live-capture",
+    "ub_ms": 6445,
+    "pw_ms": 3504
+  },
+  {
+    "domain": "zapier.com",
+    "source": "marketplace",
+    "ub_ms": 2264,
+    "pw_ms": 2933
+  },
+  {
+    "domain": "www.instagram.com",
+    "source": "live-capture",
+    "ub_ms": 5583,
+    "pw_ms": 2777
+  },
+  {
+    "domain": "www.redtrack.io",
+    "source": "live-capture",
+    "ub_ms": 3768,
+    "pw_ms": 2297
+  },
+  {
+    "domain": "api.football-data.org",
+    "source": "live-capture",
+    "ub_ms": 5318,
+    "pw_ms": 4660
+  },
+  {
+    "domain": "www.struttandparker.com",
+    "source": "marketplace",
+    "ub_ms": 923,
+    "pw_ms": 3784
+  },
+  {
+    "domain": "dashboard.shift.io",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 243
+  },
+  {
+    "domain": "www.tradingview.com",
+    "source": "marketplace",
+    "ub_ms": 173,
+    "pw_ms": 2615
+  },
+  {
+    "domain": "ngc.nvidia.com",
+    "source": "live-capture",
+    "ub_ms": 5142,
+    "pw_ms": 3389
+  },
+  {
+    "domain": "capital.com",
+    "source": "marketplace",
+    "ub_ms": 5046,
+    "pw_ms": 3614
+  },
+  {
+    "domain": "attack.mitre.org",
+    "source": "marketplace",
+    "ub_ms": 442,
+    "pw_ms": 2658
+  },
+  {
+    "domain": "www.google.com",
+    "source": "marketplace",
+    "ub_ms": 2098,
+    "pw_ms": 2416
+  },
+  {
+    "domain": "hackerone.com",
+    "source": "marketplace",
+    "ub_ms": 436,
+    "pw_ms": 2891
+  },
+  {
+    "domain": "www.zoopla.co.uk",
+    "source": "live-capture",
+    "ub_ms": 2832,
+    "pw_ms": 2301
+  },
+  {
+    "domain": "dashboard.tosspayments.com",
+    "source": "live-capture",
+    "ub_ms": 5347,
+    "pw_ms": 2912
+  },
+  {
+    "domain": "stackoverflow.com",
+    "source": "live-capture",
+    "ub_ms": 3631,
+    "pw_ms": 2315
+  },
+  {
+    "domain": "www.munichre.com",
+    "source": "marketplace",
+    "ub_ms": 110,
+    "pw_ms": 2649
+  },
+  {
+    "domain": "www.deribit.com",
+    "source": "marketplace",
+    "ub_ms": 313,
+    "pw_ms": 2802
+  },
+  {
+    "domain": "httpbin.org",
+    "source": "marketplace",
+    "ub_ms": 982,
+    "pw_ms": 5271
+  },
+  {
+    "domain": "api.replicate.com",
+    "source": "live-capture",
+    "ub_ms": 2611,
+    "pw_ms": 2426
+  },
+  {
+    "domain": "www.amazon.co.uk",
+    "source": "live-capture",
+    "ub_ms": 4912,
+    "pw_ms": 2519
+  },
+  {
+    "domain": "www.just-eat.co.uk",
+    "source": "live-capture",
+    "ub_ms": 5757,
+    "pw_ms": 2271
+  },
+  {
+    "domain": "aapi.mercury.com",
+    "source": "live-capture",
+    "ub_ms": 5389,
+    "pw_ms": 2790
+  },
+  {
+    "domain": "api.kcar.com",
+    "source": "live-capture",
+    "ub_ms": 4663,
+    "pw_ms": 2560
+  },
+  {
+    "domain": "gamma-api.polymarket.com",
+    "source": "live-capture",
+    "ub_ms": 2644,
+    "pw_ms": 2587
+  },
+  {
+    "domain": "www.marchandpetit.co.uk",
+    "source": "live-capture",
+    "ub_ms": 2867,
+    "pw_ms": 2329
+  },
+  {
+    "domain": "search.censys.io",
+    "source": "marketplace",
+    "ub_ms": 5858,
+    "pw_ms": 2284
+  },
+  {
+    "domain": "api.github.com",
+    "source": "marketplace",
+    "ub_ms": 7538,
+    "pw_ms": 2249
+  },
+  {
+    "domain": "n8n.example.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 213
+  },
+  {
+    "domain": "app.hubfit.com",
+    "source": "live-capture",
+    "ub_ms": 5800,
+    "pw_ms": 3286
+  },
+  {
+    "domain": "api.imgflip.com",
+    "source": "marketplace",
+    "ub_ms": 1094,
+    "pw_ms": 2717
+  },
+  {
+    "domain": "console.kamatera.com",
+    "source": "live-capture",
+    "ub_ms": 5343,
+    "pw_ms": 3654
+  },
+  {
+    "domain": "youtube.com",
+    "source": "live-capture",
+    "ub_ms": 3246,
+    "pw_ms": 2913
+  },
+  {
+    "domain": "www.reddit.com",
+    "source": "marketplace",
+    "ub_ms": 1806,
+    "pw_ms": 2539
+  },
+  {
+    "domain": "api.daily.dev",
+    "source": "marketplace",
+    "ub_ms": 1065,
+    "pw_ms": 3441
+  },
+  {
+    "domain": "api.bilibili.com",
+    "source": "marketplace",
+    "ub_ms": 438,
+    "pw_ms": 2860
+  },
+  {
+    "domain": "trkfy.us",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 225
+  },
+  {
+    "domain": "www.dfs.ny.gov",
+    "source": "live-capture",
+    "ub_ms": 4839,
+    "pw_ms": 2328
+  },
+  {
+    "domain": "login.circle.so",
+    "source": "live-capture",
+    "ub_ms": 2275,
+    "pw_ms": 2367
+  },
+  {
+    "domain": "autosend.com",
+    "source": "marketplace",
+    "ub_ms": 1810,
+    "pw_ms": 4162
+  },
+  {
+    "domain": "www.youtube.com",
+    "source": "live-capture",
+    "ub_ms": 4519,
+    "pw_ms": 3000
+  },
+  {
+    "domain": "analytics-api.webflow.com",
+    "source": "live-capture",
+    "ub_ms": 4773,
+    "pw_ms": 2246
+  },
+  {
+    "domain": "www.elitigation.sg",
+    "source": "marketplace",
+    "ub_ms": 187,
+    "pw_ms": 2416
+  },
+  {
+    "domain": "www.rightmove.co.uk",
+    "source": "marketplace",
+    "ub_ms": 1017,
+    "pw_ms": 3011
+  },
+  {
+    "domain": "auto-insurance.com",
+    "source": "error",
+    "ub_ms": 0,
+    "pw_ms": 15318
+  },
+  {
+    "domain": "gumroad.com",
+    "source": "live-capture",
+    "ub_ms": 7010,
+    "pw_ms": 2723
+  },
+  {
+    "domain": "privacyrights.org",
+    "source": "marketplace",
+    "ub_ms": 94,
+    "pw_ms": 2839
+  },
+  {
+    "domain": "mc.grahamlindley.com",
+    "source": "live-capture",
+    "ub_ms": 5951,
+    "pw_ms": 2318
+  },
+  {
+    "domain": "apps-api.splunk.com",
+    "source": "live-capture",
+    "ub_ms": 5227,
+    "pw_ms": 2791
+  },
+  {
+    "domain": "www.gramercytavern.com",
+    "source": "live-capture",
+    "ub_ms": 5316,
+    "pw_ms": 2948
+  },
+  {
+    "domain": "kolscan.io",
+    "source": "live-capture",
+    "ub_ms": 4076,
+    "pw_ms": 2882
+  },
+  {
+    "domain": "api.marketdata.app",
+    "source": "marketplace",
+    "ub_ms": 9005,
+    "pw_ms": 4320
+  },
+  {
+    "domain": "www.airbnb.com",
+    "source": "live-capture",
+    "ub_ms": 5803,
+    "pw_ms": 3427
+  },
+  {
+    "domain": "discord.com",
+    "source": "marketplace",
+    "ub_ms": 90,
+    "pw_ms": 2666
+  },
+  {
+    "domain": "randomuser.me",
+    "source": "marketplace",
+    "ub_ms": 306,
+    "pw_ms": 2941
+  },
+  {
+    "domain": "www.crunchbase.com",
+    "source": "live-capture",
+    "ub_ms": 3550,
+    "pw_ms": 2333
+  },
+  {
+    "domain": "prephoops.com",
+    "source": "live-capture",
+    "ub_ms": 5550,
+    "pw_ms": 2946
+  },
+  {
+    "domain": "www.linkedin.com",
+    "source": "marketplace",
+    "ub_ms": 4582,
+    "pw_ms": 2927
+  },
+  {
+    "domain": "railway.app",
+    "source": "live-capture",
+    "ub_ms": 2424,
+    "pw_ms": 3092
+  },
+  {
+    "domain": "www.cna.com",
+    "source": "live-capture",
+    "ub_ms": 2332,
+    "pw_ms": 2275
+  },
+  {
+    "domain": "www.bigshots.net",
+    "source": "marketplace",
+    "ub_ms": 423,
+    "pw_ms": 3483
+  },
+  {
+    "domain": "www.namecheap.com",
+    "source": "live-capture",
+    "ub_ms": 4085,
+    "pw_ms": 2305
+  },
+  {
+    "domain": "ipservice.suning.com",
+    "source": "live-capture",
+    "ub_ms": 5860,
+    "pw_ms": 3075
+  },
+  {
+    "domain": "cyberresilience.com",
+    "source": "marketplace",
+    "ub_ms": 385,
+    "pw_ms": 3031
+  },
+  {
+    "domain": "news.sophos.com",
+    "source": "error",
+    "ub_ms": 0,
+    "pw_ms": 420
+  },
+  {
+    "domain": "www.cybcube.com",
+    "source": "marketplace",
+    "ub_ms": 2003,
+    "pw_ms": 2867
+  },
+  {
+    "domain": "pro.porch.com",
+    "source": "marketplace",
+    "ub_ms": 1333,
+    "pw_ms": 3866
+  },
+  {
+    "domain": "www.epicgames.com",
+    "source": "live-capture",
+    "ub_ms": 4147,
+    "pw_ms": 2312
+  },
+  {
+    "domain": "github.com",
+    "source": "marketplace",
+    "ub_ms": 1486,
+    "pw_ms": 2615
+  },
+  {
+    "domain": "trustmrr.com",
+    "source": "marketplace",
+    "ub_ms": 984,
+    "pw_ms": 2407
+  },
+  {
+    "domain": "securityscorecard.com",
+    "source": "marketplace",
+    "ub_ms": 1080,
+    "pw_ms": 4428
+  },
+  {
+    "domain": "www.salesforce.com",
+    "source": "marketplace",
+    "ub_ms": 914,
+    "pw_ms": 2331
+  },
+  {
+    "domain": "api.us.swimply.com",
+    "source": "live-capture",
+    "ub_ms": 6829,
+    "pw_ms": 5225
+  },
+  {
+    "domain": "trends.google.com",
+    "source": "marketplace",
+    "ub_ms": 381,
+    "pw_ms": 2890
+  },
+  {
+    "domain": "www.serff.com",
+    "source": "marketplace",
+    "ub_ms": 1801,
+    "pw_ms": 4328
+  },
+  {
+    "domain": "gitlab.com",
+    "source": "marketplace",
+    "ub_ms": 484,
+    "pw_ms": 3773
+  },
+  {
+    "domain": "fal.ai",
+    "source": "marketplace",
+    "ub_ms": 1382,
+    "pw_ms": 3851
+  },
+  {
+    "domain": "www.ncsl.org",
+    "source": "live-capture",
+    "ub_ms": 2535,
+    "pw_ms": 2342
+  },
+  {
+    "domain": "www.buzzsumo.com",
+    "source": "marketplace",
+    "ub_ms": 1356,
+    "pw_ms": 4423
+  },
+  {
+    "domain": "en.wikipedia.org",
+    "source": "marketplace",
+    "ub_ms": 141,
+    "pw_ms": 2390
+  },
+  {
+    "domain": "www.shopify.com",
+    "source": "marketplace",
+    "ub_ms": 183,
+    "pw_ms": 2433
+  },
+  {
+    "domain": "api.exchangerate-api.com",
+    "source": "marketplace",
+    "ub_ms": 735,
+    "pw_ms": 2894
+  },
+  {
+    "domain": "multimedia.api.weibo.com",
+    "source": "live-capture",
+    "ub_ms": 3609,
+    "pw_ms": 2511
+  },
+  {
+    "domain": "www.paypal.com",
+    "source": "marketplace",
+    "ub_ms": 337,
+    "pw_ms": 3023
+  },
+  {
+    "domain": "api.m.jd.com",
+    "source": "live-capture",
+    "ub_ms": 2851,
+    "pw_ms": 2517
+  },
+  {
+    "domain": "www.hhs.gov",
+    "source": "live-capture",
+    "ub_ms": 2250,
+    "pw_ms": 2250
+  },
+  {
+    "domain": "api.resy.com",
+    "source": "live-capture",
+    "ub_ms": 8893,
+    "pw_ms": 5811
+  },
+  {
+    "domain": "krown-trading.teachable.com",
+    "source": "live-capture",
+    "ub_ms": 6132,
+    "pw_ms": 3246
+  },
+  {
+    "domain": "api.aladhan.com",
+    "source": "live-capture",
+    "ub_ms": 2815,
+    "pw_ms": 2749
+  },
+  {
+    "domain": "hugosway.com",
+    "source": "marketplace",
+    "ub_ms": 1052,
+    "pw_ms": 3356
+  },
+  {
+    "domain": "www.bellingram.co.uk",
+    "source": "marketplace",
+    "ub_ms": 2903,
+    "pw_ms": 5323
+  },
+  {
+    "domain": "higgsfield.ai",
+    "source": "marketplace",
+    "ub_ms": 453,
+    "pw_ms": 4610
+  },
+  {
+    "domain": "api.coinmarketcap.com",
+    "source": "live-capture",
+    "ub_ms": 3874,
+    "pw_ms": 2467
+  },
+  {
+    "domain": "www.coingecko.com",
+    "source": "marketplace",
+    "ub_ms": 174,
+    "pw_ms": 2921
+  },
+  {
+    "domain": "www.federalregister.gov",
+    "source": "marketplace",
+    "ub_ms": 773,
+    "pw_ms": 3766
+  },
+  {
+    "domain": "forms.google.com",
+    "source": "marketplace",
+    "ub_ms": 4361,
+    "pw_ms": 2898
+  },
+  {
+    "domain": "app.fireflies.ai",
+    "source": "live-capture",
+    "ub_ms": 2995,
+    "pw_ms": 2847
+  },
+  {
+    "domain": "drive.google.com",
+    "source": "marketplace",
+    "ub_ms": 2927,
+    "pw_ms": 2813
+  },
+  {
+    "domain": "www.sevenrooms.com",
+    "source": "marketplace",
+    "ub_ms": 1721,
+    "pw_ms": 3818
+  },
+  {
+    "domain": "api.gotofinancial.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 231
+  },
+  {
+    "domain": "foursquare.com",
+    "source": "marketplace",
+    "ub_ms": 125,
+    "pw_ms": 2443
+  },
+  {
+    "domain": "apps.occ.gov",
+    "source": "live-capture",
+    "ub_ms": 5581,
+    "pw_ms": 3253
+  },
+  {
+    "domain": "www.onthemarket.com",
+    "source": "marketplace",
+    "ub_ms": 716,
+    "pw_ms": 3515
+  },
+  {
+    "domain": "www.twitch.tv",
+    "source": "marketplace",
+    "ub_ms": 4193,
+    "pw_ms": 2609
+  },
+  {
+    "domain": "www.yellowpages.com",
+    "source": "live-capture",
+    "ub_ms": 4709,
+    "pw_ms": 2306
+  },
+  {
+    "domain": "www.gov.uk",
+    "source": "marketplace",
+    "ub_ms": 79,
+    "pw_ms": 2289
+  },
+  {
+    "domain": "www.oddsportal.com",
+    "source": "marketplace",
+    "ub_ms": 5614,
+    "pw_ms": 7467
+  },
+  {
+    "domain": "www.zywave.com",
+    "source": "marketplace",
+    "ub_ms": 428,
+    "pw_ms": 3497
+  },
+  {
+    "domain": "public.api.bsky.app",
+    "source": "live-capture",
+    "ub_ms": 2519,
+    "pw_ms": 2244
+  },
+  {
+    "domain": "api.midtrans.com",
+    "source": "live-capture",
+    "ub_ms": 2431,
+    "pw_ms": 2298
+  },
+  {
+    "domain": "api.opencagedata.com",
+    "source": "live-capture",
+    "ub_ms": 5954,
+    "pw_ms": 2764
+  },
+  {
+    "domain": "www.producthunt.com",
+    "source": "live-capture",
+    "ub_ms": 4005,
+    "pw_ms": 2427
+  },
+  {
+    "domain": "api.spacexdata.com",
+    "source": "live-capture",
+    "ub_ms": 4559,
+    "pw_ms": 2492
+  },
+  {
+    "domain": "kick.com",
+    "source": "live-capture",
+    "ub_ms": 3792,
+    "pw_ms": 2266
+  },
+  {
+    "domain": "api.encar.com",
+    "source": "live-capture",
+    "ub_ms": 4824,
+    "pw_ms": 2325
+  },
+  {
+    "domain": "www.aitmpl.com",
+    "source": "marketplace",
+    "ub_ms": 93,
+    "pw_ms": 2413
+  },
+  {
+    "domain": "www.krown.quantalchemy.io",
+    "source": "live-capture",
+    "ub_ms": 3640,
+    "pw_ms": 2323
+  },
+  {
+    "domain": "sportsrecruits.com",
+    "source": "marketplace",
+    "ub_ms": 173,
+    "pw_ms": 3554
+  },
+  {
+    "domain": "baremetrics.com",
+    "source": "marketplace",
+    "ub_ms": 131,
+    "pw_ms": 2956
+  },
+  {
+    "domain": "vercel.com",
+    "source": "marketplace",
+    "ub_ms": 253,
+    "pw_ms": 3321
+  },
+  {
+    "domain": "www.etsy.com",
+    "source": "live-capture",
+    "ub_ms": 2955,
+    "pw_ms": 2301
+  },
+  {
+    "domain": "replit.com",
+    "source": "live-capture",
+    "ub_ms": 5847,
+    "pw_ms": 2268
+  },
+  {
+    "domain": "www.occ.gov",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 6172
+  },
+  {
+    "domain": "www.cisa.gov",
+    "source": "marketplace",
+    "ub_ms": 181,
+    "pw_ms": 2364
+  },
+  {
+    "domain": "insurance.securityscorecard.com",
+    "source": "marketplace",
+    "ub_ms": 1074,
+    "pw_ms": 3804
+  },
+  {
+    "domain": "twitter.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 3677
+  },
+  {
+    "domain": "ipi.eprostor.gov.si",
+    "source": "live-capture",
+    "ub_ms": 6172,
+    "pw_ms": 3125
+  },
+  {
+    "domain": "api.gog.com",
+    "source": "live-capture",
+    "ub_ms": 3792,
+    "pw_ms": 2959
+  },
+  {
+    "domain": "api.graphql.imdb.com",
+    "source": "live-capture",
+    "ub_ms": 8786,
+    "pw_ms": 4642
+  },
+  {
+    "domain": "www.ilga.gov",
+    "source": "marketplace",
+    "ub_ms": 1425,
+    "pw_ms": 15226
+  },
+  {
+    "domain": "palestine-lives.org",
+    "source": "marketplace",
+    "ub_ms": 987,
+    "pw_ms": 3720
+  },
+  {
+    "domain": "www.facebook.com",
+    "source": "live-capture",
+    "ub_ms": 4561,
+    "pw_ms": 2747
+  },
+  {
+    "domain": "mail.google.com",
+    "source": "marketplace",
+    "ub_ms": 4820,
+    "pw_ms": 4275
+  },
+  {
+    "domain": "api.stackexchange.com",
+    "source": "marketplace",
+    "ub_ms": 346,
+    "pw_ms": 2953
+  },
+  {
+    "domain": "www.slicktext.com",
+    "source": "marketplace",
+    "ub_ms": 1030,
+    "pw_ms": 3667
+  },
+  {
+    "domain": "dash.ezlocal.com",
+    "source": "marketplace",
+    "ub_ms": 1257,
+    "pw_ms": 4793
+  },
+  {
+    "domain": "www.skool.com",
+    "source": "marketplace",
+    "ub_ms": 2489,
+    "pw_ms": 2454
+  },
+  {
+    "domain": "www.nerc.com",
+    "source": "live-capture",
+    "ub_ms": 5907,
+    "pw_ms": 2609
+  },
+  {
+    "domain": "strapi.weshop.ai",
+    "source": "live-capture",
+    "ub_ms": 5487,
+    "pw_ms": 2991
+  },
+  {
+    "domain": "www.helpareporter.com",
+    "source": "marketplace",
+    "ub_ms": 460,
+    "pw_ms": 2593
+  },
+  {
+    "domain": "netdiligence.com",
+    "source": "marketplace",
+    "ub_ms": 2057,
+    "pw_ms": 3238
+  },
+  {
+    "domain": "strawpoll.com",
+    "source": "marketplace",
+    "ub_ms": 765,
+    "pw_ms": 3578
+  },
+  {
+    "domain": "hitrustalliance.net",
+    "source": "marketplace",
+    "ub_ms": 131,
+    "pw_ms": 3079
+  },
+  {
+    "domain": "api.elections.kalshi.com",
+    "source": "live-capture",
+    "ub_ms": 3450,
+    "pw_ms": 2677
+  },
+  {
+    "domain": "www.brownbook.net",
+    "source": "marketplace",
+    "ub_ms": 449,
+    "pw_ms": 2548
+  },
+  {
+    "domain": "www.dangdang.com",
+    "source": "live-capture",
+    "ub_ms": 9218,
+    "pw_ms": 13655
+  },
+  {
+    "domain": "medium.com",
+    "source": "marketplace",
+    "ub_ms": 91,
+    "pw_ms": 2333
+  },
+  {
+    "domain": "advertising.amazon.com",
+    "source": "marketplace",
+    "ub_ms": 1059,
+    "pw_ms": 4247
+  },
+  {
+    "domain": "www.seloger-bureaux-commerces.com",
+    "source": "live-capture",
+    "ub_ms": 5376,
+    "pw_ms": 2751
+  },
+  {
+    "domain": "api.punkapi.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 215
+  },
+  {
+    "domain": "mail.zoho.com",
+    "source": "marketplace",
+    "ub_ms": 7661,
+    "pw_ms": 5501
+  },
+  {
+    "domain": "kalshi.com",
+    "source": "live-capture",
+    "ub_ms": 3289,
+    "pw_ms": 2466
+  },
+  {
+    "domain": "ukpeptides.co.uk",
+    "source": "live-capture",
+    "ub_ms": 4114,
+    "pw_ms": 4575
+  },
+  {
+    "domain": "store.bigtimehoops.net",
+    "source": "marketplace",
+    "ub_ms": 1382,
+    "pw_ms": 6643
+  },
+  {
+    "domain": "www.ebay.com",
+    "source": "marketplace",
+    "ub_ms": 957,
+    "pw_ms": 3455
+  },
+  {
+    "domain": "www.njleg.state.nj.us",
+    "source": "error",
+    "ub_ms": 0,
+    "pw_ms": 15325
+  },
+  {
+    "domain": "www.apollo.io",
+    "source": "live-capture",
+    "ub_ms": 6946,
+    "pw_ms": 2493
+  },
+  {
+    "domain": "api.yeswehack.com",
+    "source": "live-capture",
+    "ub_ms": 4771,
+    "pw_ms": 2741
+  },
+  {
+    "domain": "www.travelers.com",
+    "source": "marketplace",
+    "ub_ms": 2267,
+    "pw_ms": 3189
+  },
+  {
+    "domain": "www.fiverr.com",
+    "source": "marketplace",
+    "ub_ms": 2631,
+    "pw_ms": 3052
+  },
+  {
+    "domain": "developers.maxar.com",
+    "source": "marketplace",
+    "ub_ms": 996,
+    "pw_ms": 4939
+  },
+  {
+    "domain": "www.udemy.com",
+    "source": "live-capture",
+    "ub_ms": 2974,
+    "pw_ms": 2300
+  },
+  {
+    "domain": "dashboard.helius.dev",
+    "source": "marketplace",
+    "ub_ms": 4738,
+    "pw_ms": 2900
+  },
+  {
+    "domain": "clawhub.com",
+    "source": "marketplace",
+    "ub_ms": 2749,
+    "pw_ms": 2574
+  },
+  {
+    "domain": "eaccyitssgrkrrqgdojy.supabase.co",
+    "source": "live-capture",
+    "ub_ms": 2365,
+    "pw_ms": 2256
+  },
+  {
+    "domain": "accounts.google.com",
+    "source": "marketplace",
+    "ub_ms": 2630,
+    "pw_ms": 2454
+  },
+  {
+    "domain": "www.substack.com",
+    "source": "live-capture",
+    "ub_ms": 3802,
+    "pw_ms": 3146
+  },
+  {
+    "domain": "api.backpack.exchange",
+    "source": "live-capture",
+    "ub_ms": 4339,
+    "pw_ms": 2387
+  },
+  {
+    "domain": "www.gome.com.cn",
+    "source": "live-capture",
+    "ub_ms": 11275,
+    "pw_ms": 4473
+  },
+  {
+    "domain": "www.tossplace.com",
+    "source": "marketplace",
+    "ub_ms": 469,
+    "pw_ms": 3295
+  },
+  {
+    "domain": "muertoscantina.squarespace.com",
+    "source": "live-capture",
+    "ub_ms": 4952,
+    "pw_ms": 3107
+  },
+  {
+    "domain": "pixel-converter.ameniwa.com",
+    "source": "live-capture",
+    "ub_ms": 3879,
+    "pw_ms": 2360
+  },
+  {
+    "domain": "basketball.exposureevents.com",
+    "source": "marketplace",
+    "ub_ms": 922,
+    "pw_ms": 3894
+  },
+  {
+    "domain": "www.tiktok.com",
+    "source": "marketplace",
+    "ub_ms": 2050,
+    "pw_ms": 2340
+  },
+  {
+    "domain": "www.znanylekarz.pl",
+    "source": "marketplace",
+    "ub_ms": 215,
+    "pw_ms": 2679
+  },
+  {
+    "domain": "www.corvusinsurance.com",
+    "source": "marketplace",
+    "ub_ms": 1760,
+    "pw_ms": 2728
+  },
+  {
+    "domain": "www.behance.net",
+    "source": "live-capture",
+    "ub_ms": 5272,
+    "pw_ms": 3529
+  },
+  {
+    "domain": "api.agify.io",
+    "source": "live-capture",
+    "ub_ms": 6539,
+    "pw_ms": 2986
+  },
+  {
+    "domain": "www.recordedfuture.com",
+    "source": "marketplace",
+    "ub_ms": 88,
+    "pw_ms": 2457
+  },
+  {
+    "domain": "www.notion.so",
+    "source": "live-capture",
+    "ub_ms": 5542,
+    "pw_ms": 3237
+  },
+  {
+    "domain": "api.tvmaze.com",
+    "source": "live-capture",
+    "ub_ms": 4483,
+    "pw_ms": 3105
+  },
+  {
+    "domain": "www.honeylake.clinic",
+    "source": "marketplace",
+    "ub_ms": 551,
+    "pw_ms": 3533
+  },
+  {
+    "domain": "outlook.live.com",
+    "source": "marketplace",
+    "ub_ms": 5459,
+    "pw_ms": 2403
+  },
+  {
+    "domain": "www.camden.gov.uk",
+    "source": "live-capture",
+    "ub_ms": 2241,
+    "pw_ms": 2291
+  },
+  {
+    "domain": "example-site.com",
+    "source": "marketplace",
+    "ub_ms": 2306,
+    "pw_ms": 2515
+  },
+  {
+    "domain": "www.connectively.us",
+    "source": "live-capture",
+    "ub_ms": 9706,
+    "pw_ms": 3610
+  },
+  {
+    "domain": "www.cfcunderwriting.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 7450
+  },
+  {
+    "domain": "keep.md",
+    "source": "marketplace",
+    "ub_ms": 1622,
+    "pw_ms": 2407
+  },
+  {
+    "domain": "dashboard.codyalt.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 224
+  },
+  {
+    "domain": "cowbell.insure",
+    "source": "marketplace",
+    "ub_ms": 327,
+    "pw_ms": 2935
+  },
+  {
+    "domain": "www.opentable.com",
+    "source": "error",
+    "ub_ms": 0,
+    "pw_ms": 397
+  },
+  {
+    "domain": "www.clearscope.io",
+    "source": "live-capture",
+    "ub_ms": 7078,
+    "pw_ms": 4684
+  },
+  {
+    "domain": "example-store.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 594
+  },
+  {
+    "domain": "www.manta.com",
+    "source": "live-capture",
+    "ub_ms": 5713,
+    "pw_ms": 2302
+  },
+  {
+    "domain": "app.klingai.com",
+    "source": "live-capture",
+    "ub_ms": 4798,
+    "pw_ms": 2832
+  },
+  {
+    "domain": "www.ebay.co.uk",
+    "source": "marketplace",
+    "ub_ms": 1056,
+    "pw_ms": 3908
+  },
+  {
+    "domain": "api.publicapis.org",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 238
+  },
+  {
+    "domain": "business.nextdoor.com",
+    "source": "live-capture",
+    "ub_ms": 10008,
+    "pw_ms": 2697
+  },
+  {
+    "domain": "overnightly.com",
+    "source": "marketplace",
+    "ub_ms": 3608,
+    "pw_ms": 2776
+  },
+  {
+    "domain": "wisconsin-benefits-finder.com",
+    "source": "live-capture",
+    "ub_ms": 5062,
+    "pw_ms": 3766
+  },
+  {
+    "domain": "saveautoinsurance.com",
+    "source": "live-capture",
+    "ub_ms": 4796,
+    "pw_ms": 2746
+  },
+  {
+    "domain": "dashboard.tryskymd.com",
+    "source": "unknown",
+    "ub_ms": 0,
+    "pw_ms": 245
+  }
+]
