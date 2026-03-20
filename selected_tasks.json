@@ -1,0 +1,1669 @@
+[
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 21,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__/6s-wireless-headphones-over-ear-noise-canceling-hi-fi-bass-foldable-stereo-wireless-kid-headsets-earbuds-with-built-in-mic-micro-sd-tf-fm-for-iphone-samsung-ipad-pc-black-gold.html",
+    "geolocation": null,
+    "intent_template": "List out reviewers, if exist, who mention about {{description}}",
+    "instantiation_dict": {
+      "description": "ear cups being small"
+    },
+    "intent": "List out reviewers, if exist, who mention about ear cups being small",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "Joseph Brzezinski",
+          "Catso",
+          "Dibbins",
+          "Anglebert Dinkherhump",
+          "Michelle Davis"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "Joseph Brzezinski, Catso, Dibbins, Anglebert Dinkherhump, Michelle Davis"
+    },
+    "intent_template_id": 222
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 22,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__/fujifilm-finepix-z200fd-10mp-digital-camera-with-5x-optical-dual-image-stabilized-zoom-black.html",
+    "geolocation": null,
+    "intent_template": "List out reviewers, if exist, who mention about {{description}}",
+    "instantiation_dict": {
+      "description": "under water photo"
+    },
+    "intent": "List out reviewers, if exist, who mention about under water photo",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "fuzzy_match": "N/A"
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "There is no review about under water photo",
+      "reference_answer_raw_annotation": "N/A"
+    },
+    "intent_template_id": 222
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 23,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__/3-pack-samsung-galaxy-s6-screen-protector-nearpow-tempered-glass-screen-protector-with-9h-hardness-crystal-clear-easy-bubble-free-installation-scratch-resist.html",
+    "geolocation": null,
+    "intent_template": "List out reviewers, if exist, who mention about {{description}}",
+    "instantiation_dict": {
+      "description": "good fingerprint resistant"
+    },
+    "intent": "List out reviewers, if exist, who mention about good fingerprint resistant",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "Rachel",
+          "T. Gannon"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "Rachel, T. Gannon, "
+    },
+    "intent_template_id": 222
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 24,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__/haflinger-men-s-wool-felt-open-back-slippers-beige-550-peat-us-7.html",
+    "geolocation": null,
+    "intent_template": "List out reviewers, if exist, who mention about {{description}}",
+    "instantiation_dict": {
+      "description": "price being unfair"
+    },
+    "intent": "List out reviewers, if exist, who mention about price being unfair",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "fuzzy_match": "N/A"
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "There is no reivew about price being unfair",
+      "reference_answer_raw_annotation": "N/A"
+    },
+    "intent_template_id": 222
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 25,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__/epson-workforce-wf-3620-wifi-direct-all-in-one-color-inkjet-printer-copier-scanner-amazon-dash-replenishment-ready.html",
+    "geolocation": null,
+    "intent_template": "List out reviewers, if exist, who mention about {{description}}",
+    "instantiation_dict": {
+      "description": "average print quality"
+    },
+    "intent": "List out reviewers, if exist, who mention about average print quality",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "Goldfish",
+          "Roxanne Brandon Coffey"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "GoldfishGoldfish, Roxanne Brandon Coffey"
+    },
+    "intent_template_id": 222
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 26,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__/epson-workforce-wf-3620-wifi-direct-all-in-one-color-inkjet-printer-copier-scanner-amazon-dash-replenishment-ready.html",
+    "geolocation": null,
+    "intent_template": "List out reviewers, if exist, who mention about {{description}}",
+    "instantiation_dict": {
+      "description": "complain of the customer service"
+    },
+    "intent": "List out reviewers, if exist, who mention about complain of the customer service",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "Bob in Vegas",
+          "RemyR"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "Bob in Vegas, RemyRRemyR"
+    },
+    "intent_template_id": 222
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 47,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "Today is 6/12/2023. Tell me how many fulfilled orders I have {{period}}, and the total amount of money I spent.",
+    "instantiation_dict": {
+      "period": "over the past month"
+    },
+    "intent": "Today is 6/12/2023. Tell me how many fulfilled orders I have over the past month, and the total amount of money I spent.",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "fuzzy_match": [
+          "0 order",
+          "$0 total spend"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "0 order, $0 total spend"
+    },
+    "intent_template_id": 197
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 48,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "Today is 6/12/2023. Tell me how many fulfilled orders I have {{period}}, and the total amount of money I spent.",
+    "instantiation_dict": {
+      "period": "over the past three days"
+    },
+    "intent": "Today is 6/12/2023. Tell me how many fulfilled orders I have over the past three days, and the total amount of money I spent.",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "fuzzy_match": [
+          "0 order",
+          "$0 total spend"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "0 order, $0 total spend"
+    },
+    "intent_template_id": 197
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 49,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "Today is 6/12/2023. Tell me how many fulfilled orders I have {{period}}, and the total amount of money I spent.",
+    "instantiation_dict": {
+      "period": "over the past four month"
+    },
+    "intent": "Today is 6/12/2023. Tell me how many fulfilled orders I have over the past four month, and the total amount of money I spent.",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "fuzzy_match": [
+          "3 orders",
+          "$845.49 total spend"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "3 orders, $845.49 total spend"
+    },
+    "intent_template_id": 197
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 50,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "Today is 6/12/2023. Tell me how many fulfilled orders I have {{period}}, and the total amount of money I spent.",
+    "instantiation_dict": {
+      "period": "over the past year"
+    },
+    "intent": "Today is 6/12/2023. Tell me how many fulfilled orders I have over the past year, and the total amount of money I spent.",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "fuzzy_match": [
+          "24 orders",
+          "$6560.69 total spend"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "24 orders, $6560.69 total spend"
+    },
+    "intent_template_id": 197
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 51,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "Today is 6/12/2023. Tell me how many fulfilled orders I have {{period}}, and the total amount of money I spent.",
+    "instantiation_dict": {
+      "period": "over the past six month"
+    },
+    "intent": "Today is 6/12/2023. Tell me how many fulfilled orders I have over the past six month, and the total amount of money I spent.",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "fuzzy_match": [
+          "12 orders",
+          "$1603.69 total spend"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "12 orders, $1603.69 total spend"
+    },
+    "intent_template_id": 197
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 96,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "Tell me the status of my latest order and when will it arrive",
+    "instantiation_dict": {},
+    "intent": "Tell me the status of my latest order and when will it arrive",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "fuzzy_match": [
+          "The last order was canceled. It will never arrive."
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "reference_answer_raw_annotation": "The last order was canceled. It will never arrive.",
+      "string_note": ""
+    },
+    "intent_template_id": 193
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 117,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "What is the date when I made my first purchase on this site?",
+    "instantiation_dict": {},
+    "intent": "What is the date when I made my first purchase on this site?",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "fuzzy_match": [
+          "3/2/22"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "3/2/22"
+    },
+    "intent_template_id": 161
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 124,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "What is the price range of {{product}} in the One Stop Market?",
+    "instantiation_dict": {
+      "product": "wireless earphone"
+    },
+    "intent": "What is the price range of wireless earphone in the One Stop Market?",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "0.14",
+          "745.00"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "$0.14 - $745.00"
+    },
+    "intent_template_id": 159
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 125,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "What is the price range of {{product}} in the One Stop Market?",
+    "instantiation_dict": {
+      "product": "teeth grinding mouth guard"
+    },
+    "intent": "What is the price range of teeth grinding mouth guard in the One Stop Market?",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "1.46",
+          "85"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "$1.46 - $85"
+    },
+    "intent_template_id": 159
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 126,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "What is the price range of {{product}} in the One Stop Market?",
+    "instantiation_dict": {
+      "product": "Canon photo printer"
+    },
+    "intent": "What is the price range of Canon photo printer in the One Stop Market?",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "2.56",
+          "649.99"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "$2.56 - $649.99"
+    },
+    "intent_template_id": 159
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 141,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "How much I spent on {{category}} shopping during {{time}}",
+    "instantiation_dict": {
+      "category": "food-related",
+      "time": "March 2023"
+    },
+    "intent": "How much I spent on food-related shopping during March 2023",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "47.41"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "$47.41"
+    },
+    "intent_template_id": 162
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 142,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "How much I spent on {{category}} shopping during {{time}}",
+    "instantiation_dict": {
+      "category": "hair care and hair style",
+      "time": "Jan 2023"
+    },
+    "intent": "How much I spent on hair care and hair style shopping during Jan 2023",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "95.23"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "$95.23"
+    },
+    "intent_template_id": 162
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 143,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "How much I spent on {{category}} shopping during {{time}}",
+    "instantiation_dict": {
+      "category": "home decoration",
+      "time": "1/29/2023"
+    },
+    "intent": "How much I spent on home decoration shopping during 1/29/2023",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "265.69"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "$265.69"
+    },
+    "intent_template_id": 162
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 144,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "How much I spent on {{category}} shopping during {{time}}",
+    "instantiation_dict": {
+      "category": "food",
+      "time": "from mid Jan to the end Jan 2023"
+    },
+    "intent": "How much I spent on food shopping during from mid Jan to the end Jan 2023",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "0"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "0"
+    },
+    "intent_template_id": 162
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 145,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "How much I spent on {{category}} shopping during {{time}}",
+    "instantiation_dict": {
+      "category": "cooking and food",
+      "time": "March 2022"
+    },
+    "intent": "How much I spent on cooking and food shopping during March 2022",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "52.35"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "$52.35"
+    },
+    "intent_template_id": 162
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 146,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "What is the {{option}} configuration of the {{product}} I bought {{time}}",
+    "instantiation_dict": {
+      "option": "size",
+      "product": "picture frame",
+      "time": "Sep 2022"
+    },
+    "intent": "What is the size configuration of the picture frame I bought Sep 2022",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "16x24"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "16x24"
+    },
+    "intent_template_id": 155
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 147,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "What is the {{option}} configuration of the {{product}} I bought {{time}}",
+    "instantiation_dict": {
+      "option": "size",
+      "product": "picture frame",
+      "time": "2022"
+    },
+    "intent": "What is the size configuration of the picture frame I bought 2022",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "16x24"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "16x24"
+    },
+    "intent_template_id": 155
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 148,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "What is the {{option}} configuration of the {{product}} I bought {{time}}",
+    "instantiation_dict": {
+      "option": "color",
+      "product": "picture frame",
+      "time": "Sep 2022"
+    },
+    "intent": "What is the color configuration of the picture frame I bought Sep 2022",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "Mist"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "Mist"
+    },
+    "intent_template_id": 155
+  },
+  {
+    "sites": [
+      "shopping"
+    ],
+    "task_id": 149,
+    "require_login": true,
+    "storage_state": "./.auth/shopping_state.json",
+    "start_url": "__SHOPPING__",
+    "geolocation": null,
+    "intent_template": "What is the {{option}} configuration of the {{product}} I bought {{time}}",
+    "instantiation_dict": {
+      "option": "color",
+      "product": "artifical plants",
+      "time": "Feb 2023"
+    },
+    "intent": "What is the color configuration of the artifical plants I bought Feb 2023",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "Green-vines"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "Green-vines"
+    },
+    "intent_template_id": 155
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 27,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the {{forum}} forum.",
+    "instantiation_dict": {
+      "forum": "Showerthoughts"
+    },
+    "intent": "Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the Showerthoughts forum.",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "0"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "0"
+    },
+    "intent_template_id": 33
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 28,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the {{forum}} forum.",
+    "instantiation_dict": {
+      "forum": "Worcester"
+    },
+    "intent": "Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the Worcester forum.",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "0"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "0"
+    },
+    "intent_template_id": 33
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 29,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the {{forum}} forum.",
+    "instantiation_dict": {
+      "forum": "DIY"
+    },
+    "intent": "Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the DIY forum.",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "1"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "1"
+    },
+    "intent_template_id": 33
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 30,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the {{forum}} forum.",
+    "instantiation_dict": {
+      "forum": "space"
+    },
+    "intent": "Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the space forum.",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "0"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "0"
+    },
+    "intent_template_id": 33
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 31,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the {{forum}} forum.",
+    "instantiation_dict": {
+      "forum": "photoshopbattles"
+    },
+    "intent": "Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the photoshopbattles forum.",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "0"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "0"
+    },
+    "intent_template_id": 33
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 66,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Among the top {{number}} post in \"{{subreddit}}\" forum, {{description}}",
+    "instantiation_dict": {
+      "number": 10,
+      "subreddit": "books",
+      "description": "show me the post URLs that recommand a single book"
+    },
+    "intent": "Among the top 10 post in \"books\" forum, show me the post URLs that recommand a single book",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "http://www.reddit.com/f/books/59396/apple-books-has-a-free-audiobook-of-a-christmas-carol",
+          "http://www.reddit.com/f/books/17445/i-just-finished-reading-the-hobbit-to-my-6-year-old-daughter"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "__REDDIT__/f/books/59396/apple-books-has-a-free-audiobook-of-a-christmas-carol, __REDDIT__/f/books/17445/i-just-finished-reading-the-hobbit-to-my-6-year-old-daughter"
+    },
+    "intent_template_id": 17
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 67,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Among the top {{number}} post in \"{{subreddit}}\" forum, {{description}}",
+    "instantiation_dict": {
+      "number": 10,
+      "subreddit": "books",
+      "description": "show me the book names from posts that recommand a single book"
+    },
+    "intent": "Among the top 10 post in \"books\" forum, show me the book names from posts that recommand a single book",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "A Christmas Carol",
+          "The Hobbit"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "A Christmas Carol, The Hobbit"
+    },
+    "intent_template_id": 17
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 68,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Among the top {{number}} post in \"{{subreddit}}\" forum, {{description}}",
+    "instantiation_dict": {
+      "number": 10,
+      "subreddit": "books",
+      "description": "show me the author name and the book name from posts that recommand a single book"
+    },
+    "intent": "Among the top 10 post in \"books\" forum, show me the author name and the book name from posts that recommand a single book",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "A Christmas Carol",
+          "Levar Burton",
+          "The Hobbit",
+          "J. R. R. Tolkien"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "A Christmas Carol by Levar Burton: , The Hobbit by J. R. R. Tolkien"
+    },
+    "intent_template_id": 17
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 69,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Among the top {{number}} post in \"{{subreddit}}\" forum, {{description}}",
+    "instantiation_dict": {
+      "number": 10,
+      "subreddit": "books",
+      "description": "is there any post talks about supporting local book stores? If so, tell me the organizations involved"
+    },
+    "intent": "Among the top 10 post in \"books\" forum, is there any post talks about supporting local book stores? If so, tell me the organizations involved",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "string_match"
+      ],
+      "reference_answers": {
+        "must_include": [
+          "bookshop.org"
+        ]
+      },
+      "reference_url": "",
+      "program_html": [],
+      "string_note": "",
+      "reference_answer_raw_annotation": "bookshop.org"
+    },
+    "intent_template_id": 17
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 399,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Change my reddit bio to \"{{content}}\"",
+    "instantiation_dict": {
+      "content": "I am a robot"
+    },
+    "intent": "Change my reddit bio to \"I am a robot\"",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/user/MarvelsGrantMan136",
+          "locator": "document.querySelector(\".user-bio__biography\").outerText",
+          "required_contents": {
+            "exact_match": "I am a robot"
+          }
+        }
+      ]
+    },
+    "intent_template_id": 6
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 400,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Change my reddit bio to \"{{content}}\"",
+    "instantiation_dict": {
+      "content": "Pro Python Developer with 20 years of Experience"
+    },
+    "intent": "Change my reddit bio to \"Pro Python Developer with 20 years of Experience\"",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/user/MarvelsGrantMan136",
+          "locator": "document.querySelector(\".user-bio__biography\").outerText",
+          "required_contents": {
+            "exact_match": "Pro Python Developer with 20 years of Experience"
+          }
+        }
+      ]
+    },
+    "intent_template_id": 6
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 401,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Change my reddit bio to \"{{content}}\"",
+    "instantiation_dict": {
+      "content": "Seeking SDE positions"
+    },
+    "intent": "Change my reddit bio to \"Seeking SDE positions\"",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/user/MarvelsGrantMan136",
+          "locator": "document.querySelector(\".user-bio__biography\").outerText",
+          "required_contents": {
+            "exact_match": "Seeking SDE positions"
+          }
+        }
+      ]
+    },
+    "intent_template_id": 6
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 402,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Change my reddit bio to \"{{content}}\"",
+    "instantiation_dict": {
+      "content": "Freelance Web Developer"
+    },
+    "intent": "Change my reddit bio to \"Freelance Web Developer\"",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/user/MarvelsGrantMan136",
+          "locator": "document.querySelector(\".user-bio__biography\").outerText",
+          "required_contents": {
+            "exact_match": "Freelance Web Developer"
+          }
+        }
+      ]
+    },
+    "intent_template_id": 6
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 403,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Change my reddit bio to \"{{content}}\"",
+    "instantiation_dict": {
+      "content": "Awesome Prompt Artist"
+    },
+    "intent": "Change my reddit bio to \"Awesome Prompt Artist\"",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/user/MarvelsGrantMan136",
+          "locator": "document.querySelector(\".user-bio__biography\").outerText",
+          "required_contents": {
+            "exact_match": "Awesome Prompt Artist"
+          }
+        }
+      ]
+    },
+    "intent_template_id": 6
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 404,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Upvote the newest post in {{subreddit}} subreddit",
+    "instantiation_dict": {
+      "subreddit": "books"
+    },
+    "intent": "Upvote the newest post in books subreddit",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/f/books/124260/adults-reading-to-each-other-out-loud",
+          "locator": "document.querySelector('div.submission__vote').querySelector('form').getAttribute('class')",
+          "required_contents": {
+            "must_include": [
+              "vote vote--user-upvoted"
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 22
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 405,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Upvote the newest post in {{subreddit}} subreddit",
+    "instantiation_dict": {
+      "subreddit": "DIY"
+    },
+    "intent": "Upvote the newest post in DIY subreddit",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/f/DIY/119019/how-can-i-bring-an-hdmi-cable-from-my-pc-downstairs-to-my-tv",
+          "locator": "document.querySelector('div.submission__vote').querySelector('form').getAttribute('class')",
+          "required_contents": {
+            "must_include": [
+              "vote vote--user-upvoted"
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 22
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 406,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Upvote the newest post in {{subreddit}} subreddit",
+    "instantiation_dict": {
+      "subreddit": "future technology"
+    },
+    "intent": "Upvote the newest post in future technology subreddit",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/f/Futurology/119517/openai-ceo-it-s-not-funny-that-i-m-afraid-of-the-ai-we-re",
+          "locator": "document.querySelector('div.submission__vote').querySelector('form').getAttribute('class')",
+          "required_contents": {
+            "must_include": [
+              "vote vote--user-upvoted"
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 22
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 407,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Upvote the newest post in {{subreddit}} subreddit",
+    "instantiation_dict": {
+      "subreddit": "deeplearning"
+    },
+    "intent": "Upvote the newest post in deeplearning subreddit",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/f/deeplearning/124993/meta-s-llama-weights-leaked-on-torrent-and-the-best-thing",
+          "locator": "document.querySelector('div.submission__vote').querySelector('form').getAttribute('class')",
+          "required_contents": {
+            "must_include": [
+              "vote vote--user-upvoted"
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 22
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 408,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__",
+    "geolocation": null,
+    "intent_template": "Upvote the newest post in {{subreddit}} subreddit",
+    "instantiation_dict": {
+      "subreddit": "explain like im 5"
+    },
+    "intent": "Upvote the newest post in explain like im 5 subreddit",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/f/explainlikeimfive/39244/eli5-how-does-pinching-a-ribbon-and-sliding-your-finger",
+          "locator": "document.querySelector('div.submission__vote').querySelector('form').getAttribute('class')",
+          "required_contents": {
+            "must_include": [
+              "vote vote--user-upvoted"
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 22
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 409,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__/f/books/59421/friendly-reminder-bookshop-org-exists",
+    "geolocation": null,
+    "intent_template": "Reply to {{position_description}} in this post with \"{{content_description}}\"",
+    "instantiation_dict": {
+      "position_description": "the manager of the website",
+      "content_description": "thanks! I am a big fan of your website."
+    },
+    "intent": "Reply to the manager of the website in this post with \"thanks! I am a big fan of your website.\"",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/f/books/59421/-/comment/1235250",
+          "locator": "",
+          "required_contents": {
+            "must_include": [
+              "thanks! I am a big fan of your website."
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 23
+  },
+  {
+    "sites": [
+      "reddit"
+    ],
+    "task_id": 410,
+    "require_login": true,
+    "storage_state": "./.auth/reddit_state.json",
+    "start_url": "__REDDIT__/f/singularity/69404/this-is-how-chatgpt-sees-itself",
+    "geolocation": null,
+    "intent_template": "Reply to {{position_description}} in this post with \"{{content_description}}\"",
+    "instantiation_dict": {
+      "position_description": "the first reply",
+      "content_description": "don't panic"
+    },
+    "intent": "Reply to the first reply in this post with \"don't panic\"",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__REDDIT__/f/singularity/69404/-/comment/1042264",
+          "locator": "",
+          "required_contents": {
+            "must_include": [
+              "don't panic"
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 23
+  },
+  {
+    "sites": [
+      "gitlab",
+      "reddit"
+    ],
+    "task_id": 552,
+    "require_login": true,
+    "storage_state": "./.auth/gitlab.reddit_state.json",
+    "start_url": "__GITLAB__",
+    "geolocation": null,
+    "intent_template": "Create a folder named {{directory}} in {{gitlab_repo}} repo. Within it, create a file named urls.txt that contains the URLs of the 5 most recent posts from the {{subreddit}}?",
+    "instantiation_dict": {
+      "directory": "real_space",
+      "subreddit": "space",
+      "gitlab_repo": "gimmiethat.space"
+    },
+    "intent": "Create a folder named real_space in gimmiethat.space repo. Within it, create a file named urls.txt that contains the URLs of the 5 most recent posts from the space?",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__GITLAB__/byteblaze/gimmiethat.space/-/raw/main/real_space/urls.txt",
+          "locator": "",
+          "required_contents": {
+            "must_include": [
+              "__REDDIT__/f/space/134164/scientists-erupt-at-nasa-gutting-funding-for-crucial-venus",
+              "__REDDIT__/f/space/134163/virgin-orbit-fails-to-secure-funding-will-cease-operations",
+              "__REDDIT__/f/space/134162/nasa-to-name-artemis-2-crew-next-week-the-first-moon",
+              "__REDDIT__/f/space/134161/bent-light-in-deep-space-reveals-one-of-the-biggest-black",
+              "__REDDIT__/f/space/134160/seti-s-new-machine-learning-algorithm-works-like-google-s"
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 84
+  },
+  {
+    "sites": [
+      "gitlab",
+      "reddit"
+    ],
+    "task_id": 553,
+    "require_login": true,
+    "storage_state": "./.auth/gitlab.reddit_state.json",
+    "start_url": "__GITLAB__",
+    "geolocation": null,
+    "intent_template": "Create a folder named {{directory}} in {{gitlab_repo}} repo. Within it, create a file named urls.txt that contains the URLs of the 5 most recent posts from the {{subreddit}}?",
+    "instantiation_dict": {
+      "directory": "news",
+      "gitlab_repo": "gimmiethat.space",
+      "subreddit": "news related subreddits"
+    },
+    "intent": "Create a folder named news in gimmiethat.space repo. Within it, create a file named urls.txt that contains the URLs of the 5 most recent posts from the news related subreddits?",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__GITLAB__/byteblaze/gimmiethat.space/-/raw/main/news/urls.txt",
+          "locator": "",
+          "required_contents": {
+            "must_include": [
+              "__REDDIT__/f/news/129905/ohio-man-charged-for-using-molotov-cocktails-to-attack",
+              "__REDDIT__/f/news/129904/in-a-loss-for-fox-news-judge-allows-dominion-s-defamation",
+              "__REDDIT__/f/news/129903/theater-group-sues-to-block-tennessee-s-new-anti-drag-law",
+              "__REDDIT__/f/news/129902/andrew-tate-released-from-jail-in-romania-and-placed-under",
+              "__REDDIT__/f/news/129901/rare-high-risk-storm-alert-issued-for-parts-of-midwest-and"
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 84
+  },
+  {
+    "sites": [
+      "gitlab",
+      "reddit"
+    ],
+    "task_id": 554,
+    "require_login": true,
+    "storage_state": "./.auth/gitlab.reddit_state.json",
+    "start_url": "__GITLAB__",
+    "geolocation": null,
+    "intent_template": "Create a folder named {{directory}} in {{gitlab_repo}} repo. Within it, create a file named urls.txt that contains the URLs of the 5 most recent posts from the {{subreddit}}?",
+    "instantiation_dict": {
+      "directory": "moive_space",
+      "gitlab_repo": "gimmiethat.space",
+      "subreddit": "movies"
+    },
+    "intent": "Create a folder named moive_space in gimmiethat.space repo. Within it, create a file named urls.txt that contains the URLs of the 5 most recent posts from the movies?",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__GITLAB__/byteblaze/gimmiethat.space/-/raw/main/moive_space/urls.txt",
+          "locator": "",
+          "required_contents": {
+            "must_include": [
+              "__REDDIT__/f/movies/128825/scenes-in-film-that-feel-off-or-wrong-in-some-way-and-make",
+              "__REDDIT__/f/movies/128824/disney-s-live-action-lilo-amp-stitch-movie-finds-its-lilo-in",
+              "__REDDIT__/f/movies/128823/fantastic-four-movie-gets-new-writer-with-avatar-the-way-of",
+              "__REDDIT__/f/movies/128822/can-someone-explain-what-made-steven-seagal-so-appealing-for",
+              "__REDDIT__/f/movies/128821/ban-on-fetish-sex-depictions-in-film-should-end-australia"
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 84
+  },
+  {
+    "sites": [
+      "gitlab",
+      "reddit"
+    ],
+    "task_id": 555,
+    "require_login": true,
+    "storage_state": "./.auth/gitlab.reddit_state.json",
+    "start_url": "__GITLAB__",
+    "geolocation": null,
+    "intent_template": "Create a folder named {{directory}} in {{gitlab_repo}} repo. Within it, create a file named urls.txt that contains the URLs of the 5 most recent posts from the {{subreddit}}?",
+    "instantiation_dict": {
+      "directory": "funny_pic",
+      "gitlab_repo": "gimmiethat.space",
+      "subreddit": "memes"
+    },
+    "intent": "Create a folder named funny_pic in gimmiethat.space repo. Within it, create a file named urls.txt that contains the URLs of the 5 most recent posts from the memes?",
+    "require_reset": false,
+    "eval": {
+      "eval_types": [
+        "program_html"
+      ],
+      "reference_answers": null,
+      "reference_url": "",
+      "program_html": [
+        {
+          "url": "__GITLAB__/byteblaze/gimmiethat.space/-/raw/main/funny_pic/urls.txt",
+          "locator": "",
+          "required_contents": {
+            "must_include": [
+              "__REDDIT__/f/memes/127991/it-do-be-like-that-tho",
+              "__REDDIT__/f/memes/127990/thank-you-memers-this-wouldn-t-be-possible-without-you",
+              "__REDDIT__/f/memes/127989/if-you-have-no-other-choice",
+              "__REDDIT__/f/memes/127988/yes-yes-yes",
+              "__REDDIT__/f/memes/127987/shagadelic-baby"
+            ]
+          }
+        }
+      ]
+    },
+    "intent_template_id": 84
+  }
+]
